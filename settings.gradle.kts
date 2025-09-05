@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "component-test-app"
 include(":app")
- 
+include(":ui-component")
